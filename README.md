@@ -2,6 +2,8 @@
 <h3 align="center">A passionate student that loves to learn new skills</h3>
 
 - 🌱 I’m currently studying **computer science**
+- 💡 I’m exploring **artificial intelligence**
+- 📚 I’m learning about **machine learning** and **data science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
