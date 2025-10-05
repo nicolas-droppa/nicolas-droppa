@@ -2,10 +2,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&textBg=false&theme=onedark"  />
-</div>
-
 <p align="left">🎓 I hold a B.Sc. in Applied Informatics and I’m currently pursuing my M.Sc. in Applied Informatics at FEI STU.  <br>💻 Passionate about web development, game development, and software engineering.<br>🤖 Exploring artificial intelligence<br>📚 Learning about machine learning and data science  <br>🚀 Always eager to learn new technologies, build practical projects, and improve my coding skills.</p>
 
 ###
@@ -50,7 +46,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolas-droppa&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=nicolas-droppa&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=nicolas-droppa&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -58,10 +54,18 @@
 <br clear="both">
 
 <div align="left">
-  <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://www.linkedin.com/in/nicolas-droppa-b3893523a/)" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/nicolas-droppa-b3893523a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:droppa.nicolas@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/nicolas_droppa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/394888580767416322" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
