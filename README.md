@@ -6,8 +6,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&textBg=false&theme=onedark"  />
 </div>
 
-###
-
 <p align="left">🎓 I hold a B.Sc. in Applied Informatics and I’m currently pursuing my M.Sc. in Applied Informatics at FEI STU.  <br>💻 Passionate about web development, game development, and software engineering.<br>🤖 Exploring artificial intelligence<br>📚 Learning about machine learning and data science  <br>🚀 Always eager to learn new technologies, build practical projects, and improve my coding skills.</p>
 
 ###
